@@ -1,0 +1,17 @@
+# Parameter values
+
+param N := 3;
+param C := 70;
+param alpha := 0.4;
+param g_incoming :=
+1 35
+2 28
+3 40;
+param g_outgoing :=
+1 49
+2 42
+3 28;
+param delta :=
+1 28
+2 35
+3 42;
